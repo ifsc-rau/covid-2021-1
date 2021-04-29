@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-    Projetos Integradores 2020-1 
+    Projetos Integradores 2021-1 
     <br />
     Deixe sua imaginação voar, um jeito divertido de colocar em prática seus conhecimentos. 🚀
 </h3>
@@ -22,8 +22,8 @@ Conta com a colaboração dos professores:
 - Frank Juergen Knaesel
 - Marco Antonio Torrez Rojas
 
-## Projetos de 2020-1
-- [Projeto Exemplo](https://github.com/ifsc-rau/IFSC-Rau-Fantastic-Four_2020-1/tree/master/Projeto%20Exemplo)
+## Projetos de 2021-1
+- [Projeto Exemplo](https://github.com/ifsc-rau/covid-2021-1/tree/master/Projeto%20Exemplo)
 
 
 ## Instruções
