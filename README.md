@@ -15,12 +15,12 @@ Repositório criado para com o intuito de estimular o uso do git nos projetos in
 
 Conta com a colaboração dos professores:
 
-- Alexandre Altair de Melo
-- Bruno Crestani Calegaro
-- Davi Bernardo Silva
-- Edilson Hipolito da Silva
-- Frank Juergen Knaesel
-- Marco Antonio Torrez Rojas
+- Me. Alexandre Altair de Melo
+- Me. Bruno Crestani Calegaro
+- Me. Davi Bernardo Silva
+- Me. Edilson Hipolito da Silva
+- Me. Frank Juergen Knaesel
+- Dr. Marco Antonio Torrez Rojas
 
 ## Projetos de 2021-1
 - [Projeto Exemplo](https://github.com/ifsc-rau/covid-2021-1/tree/master/Projeto%20Exemplo)
