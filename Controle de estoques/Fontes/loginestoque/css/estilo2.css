@@ -1,0 +1,76 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image: url("../img/clientes.jpg");
+	background-position: 50% 90%;
+	color: black;
+	font-family: arial;
+}
+
+input{
+	display: block;
+	height: 40px;
+	width: 350px;
+	margin: 10px;
+	border-radius: 30px;
+	border:1px solid black;
+	font-size: 16pt;
+	padding: 10px 20px;
+	background-color: rgba(255,255,255,0.01);
+	color: black;
+	outline: none;
+}
+
+div#corpo-form{
+	/*background-color: red;*/
+	width: 420px;
+	margin: 130px auto 0px auto;
+}
+
+div#corpo-form-Cad{
+	/*background-color: red;*/
+	width: 420px;
+	margin: 80px auto 0px auto;
+}
+
+div#corpo-form h1,div#corpo-form-Cad h1{
+	text-align: center;
+	padding: 20px;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+input[type=submit]{
+	background-color: #0000FF;
+	border: none;
+	cursor: pointer;
+}
+
+::-webkit-input-placeholder {
+	color: #191970;
+}
+
+:-moz-placeholder {
+	color: #191970;
+}
+
+::-moz-placeholder {
+	color: #191970;
+
+}
+
+:-ms-input-placeholder{
+	color: #191970;
+}
+
